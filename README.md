@@ -1,4 +1,4 @@
-# special-octo-parakeet
+# FarmersMarketAPI
 Farmers Market API
 
 
